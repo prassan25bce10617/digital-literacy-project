@@ -2,7 +2,8 @@
 
 As digital platforms become an essential part of student life, it is important to follow safe online practices to avoid cybercrime. The following are some important guidelines:
 
-DO’s:
+# DO’s:
+
 • Use strong and unique passwords for all your accounts and update them regularly.
 
 • Enable two-factor authentication (2FA) for email, banking, and social media accounts.
@@ -14,7 +15,8 @@ DO’s:
 • Verify the authenticity of websites and links before entering any personal information.
 
 
-DON’Ts:
+# DON’Ts:
+
 • Never share your UPI PIN, OTP, or banking details with anyone under any circumstances.
 
 • Do not scan unknown QR codes or approve payment requests from unfamiliar sources.
@@ -26,6 +28,7 @@ DON’Ts:
 • Avoid installing applications from untrusted or unknown sources.
 
 Reporting Cybercrime:
+
 # If you become a victim of any online fraud or suspicious activity, report it immediately through:
 
 • National Cyber Crime Portal: https://cybercrime.gov.in
