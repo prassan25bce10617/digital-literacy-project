@@ -18,6 +18,7 @@ Through this project, I created a digital literacy infographic to spread awarene
 Overall, this project helped me develop essential digital skills, improve my online presence, and understand how to stay safe and responsible in the digital world.
 
 Name:Prassan Rastogi
+
 Reg No:25BCE10617
 
 
