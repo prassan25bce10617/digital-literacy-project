@@ -1,4 +1,4 @@
-# Stay Safe Online Prevention Checklist 
+# Prevention Checklist 
 
 As digital platforms become an essential part of student life, it is important to follow safe online practices to avoid cybercrime. The following are some important guidelines:
 
@@ -26,8 +26,6 @@ As digital platforms become an essential part of student life, it is important t
 • Do not use public Wi-Fi for making online payments or accessing sensitive information.
 
 • Avoid installing applications from untrusted or unknown sources.
-
-Reporting Cybercrime:
 
 # If you become a victim of any online fraud or suspicious activity, report it immediately through:
 
