@@ -5,6 +5,11 @@ VIT Bhopal University
 
 I aim to learn programming, artificial intelligence, and build real-world projects that solve practical problems.
 
+# Student Detail's
+
+Name: Prassan Rastogi
+
+Reg No:25BCE10617
 
 # Digital Literacy Awareness Quiz
 
@@ -17,8 +22,45 @@ Through this project, I created a digital literacy infographic to spread awarene
 
 Overall, this project helped me develop essential digital skills, improve my online presence, and understand how to stay safe and responsible in the digital world.
 
-Name:Prassan Rastogi
+# Module Summaries
 
-Reg No:25BCE10617
+Task 1: Digital Literacy Infographic
+Created an infographic using Canva explaining:
 
+What digital literacy is
+Useful digital tools
+Safe internet practices
+Email etiquette
 
+Task 2: Student Digital Portfolio
+LinkedIn Profile
+Professional networking platform Used for showcasing skills, achievements, and connecting with professionals
+
+GitHub Profile
+Platform for storing and sharing code Used to build a strong coding portfolio and collaborate on projects
+
+Kaggle Profile
+Platform for data science and machine learning Used for practicing datasets, competitions, and improving analytical skills
+
+Task 3: Coding & Collaboration
+HackerRank
+Practiced coding problems to improve programming skills
+
+Google Forms
+Created a Digital Literacy Awareness Quiz Learned data collection and survey design
+
+Task 4: Email & Digital Etiquette
+Learned professional email writing
+Understood Do’s and Don’ts of online communication
+Importance of respectful and clear digital interaction
+
+Task 5: Cybersecurity Case Study
+Topic: UPI/Online Payment Fraud
+Explained how scams happen
+Identified target groups
+Provided prevention checklist
+Key Learning
+Importance of digital literacy
+Online safety and cybersecurity awareness
+Building a professional digital presence
+Effective use of digital tools
